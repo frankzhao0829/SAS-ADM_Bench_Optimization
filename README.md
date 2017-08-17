@@ -1,4 +1,4 @@
-# A&DM Bench Optimization
+# Employee Bench Optimization
 Positions Extention.sas: This program is used to build Logistic Regression model on Likelihood of project extension using at least 1 year of data.
 
 Extension Scoring.sas: This program is to score the likelihood of extension of current ongoing projects based on the modelling file created in Positions Extention.sas.
